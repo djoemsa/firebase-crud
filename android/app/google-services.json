@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "628960173010",
+    "project_id": "coders-meme",
+    "storage_bucket": "coders-meme.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628960173010:android:6392bb58260e5df3d7c60b",
+        "android_client_info": {
+          "package_name": "com.hazza.coders_meme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628960173010-96fi8m233n5bf4nngtleo5qsscel5jl1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoD5VbqPpmTnkpzpaTa7TGl3ydf6B7Hpk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "628960173010-96fi8m233n5bf4nngtleo5qsscel5jl1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
